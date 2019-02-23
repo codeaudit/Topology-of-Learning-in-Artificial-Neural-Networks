@@ -1,0 +1,2 @@
+# Topology-of-Learning-in-Artificial-Neural-Networks
+Understanding how neural networks learn remains one of the central challenges in machine learning research. From random at the start of training, the weights of a neural network evolve in such a way as to be able to perform a variety of tasks, like classifying images. Here we will see the emergence of structure in the weights by applying methods from topological data analysis. https://arxiv.org/pdf/1902.08160.pdf
